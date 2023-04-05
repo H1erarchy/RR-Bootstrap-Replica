@@ -1,4 +1,6 @@
 import './App.css';
+import TopBar from './components/TopBar';
+import StoreListings from './components/StoreListings';
 
 function App() {
   return (
